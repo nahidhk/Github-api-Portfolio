@@ -1,3 +1,4 @@
+<!-- GitAds-Verify: GS46I4OG2E4HFW7YWBI2H2818U3KNLCJ -->
 # GitHub API Portfolio
 
 This portfolio website loads data directly from GitHub. It is an open-source project. Anyone can use it as long as they have a GitHub account. Once you fork the repository, you can set it up and publish it using **Vercel**. You can directly edit components and content using the open-source files.
