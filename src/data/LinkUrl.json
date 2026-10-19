@@ -1,0 +1,8 @@
+{
+    "telegram_url": "https://t.me/",
+    "facebook_url": "https://facebook.com/",
+    "linkedin_url": "https://linkedin.com/in/",
+    "x_url": "https://x.com/",
+    "whatsapp_api": "https://api.whatsapp.com/send?phone=",
+    "snapchat_url": "https://www.snapchat.com/add/"
+}
